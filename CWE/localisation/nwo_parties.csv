@@ -343,18 +343,18 @@ party_populist_0_BRU;Populist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_progressive_0_BRU;Progressive Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_0_BRU;Socialist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_traditionalist_0_BRU;Traditionalist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_conservative_0_BRZ;União Democrática Nacional;;;;;;;;;;;;;x
-party_liberal_0_BRZ;Partido Social Democrático;;;;;;;;;;;;;x
+party_conservative_0_BRZ;UniÃ£o DemocrÃ¡tica Nacional;;;;;;;;;;;;;x
+party_liberal_0_BRZ;Partido Social DemocrÃ¡tico;;;;;;;;;;;;;x
 party_populist_0_BRZ;Partido Trabalhista Brasileiro;;;;;;;;;;;;;x
 party_communist_0_BRZ;Partido Comunista do Brasil;;;;;;;;;;;;;x
 party_conservative_1_BRZ;ARENA;;;;;;;;;;;;;x
-party_liberal_1_BRZ;Movimento Democrático Brasileiro;;;;;;;;;;;;;x
+party_liberal_1_BRZ;Movimento DemocrÃ¡tico Brasileiro;;;;;;;;;;;;;x
 party_conservative_2_BRZ;Partido da Frente Liberal;;;;;;;;;;;;;x
 party_liberal_2_BRZ;Partido da Social Democracia Brasileira;;;;;;;;;;;;;x
 party_progressive_2_BRZ;Partido Socialismo e Liberdade;;;;;;;;;;;;;x
 party_socialist_2_BRZ;Partido dos Trabalhadores;;;;;;;;;;;;;x
-party_populist_2_BRZ;Partido do Movimento Democrático Brasileiro;;;;;;;;;;;;;x
-party_traditionalist_2_BRZ;Partido Social Cristão;;;;;;;;;;;;;x
+party_populist_2_BRZ;Partido do Movimento DemocrÃ¡tico Brasileiro;;;;;;;;;;;;;x
+party_traditionalist_2_BRZ;Partido Social CristÃ£o;;;;;;;;;;;;;x
 party_communist_2_BRZ;Partido Socialista dos Trabalhadores Unificado;;;;;;;;;;;;;x
 party_conservative_3_BRZ;Democratas;;;;;;;;;;;;;x
 party_conservative_0_BUF;African Democratic Rally;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -600,7 +600,7 @@ party_communist_0_CYP;Progressive Party of Working People;;;;;;;;;;;;;x;;;;;;;;;
 party_traditionalist_0_CYP;Traditionalist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_CYP;United Democrats;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_0_CZH;KSC;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_communist_social_0_CZH;Communist Party Slï¿½nskï¿½-Dubcek Wing;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_communist_social_0_CZH;Communist Party SlÃ¯Â¿Â½nskÃ¯Â¿Â½-Dubcek Wing;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_conservative_0_CZH;Conservative Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_CZH;Liberal Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_0_CZH;Populist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -719,7 +719,7 @@ party_communist_1_EGY;Coalition of Socialist Forces;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 party_conservative_1_ELS;Christian Democratic Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_0_ELS;Communist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_progressive_0_ELS;Democratic Change;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_socialist_0_ELS;Farabundo Martí National Liberation Front;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_socialist_0_ELS;Farabundo MartÃ­ National Liberation Front;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_ELS;Grand Alliance for National Unity;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_0_ELS;National Coalition Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_conservative_0_ELS;Nationalist Republican Alliance;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -858,10 +858,10 @@ party_traditionalist_0_GEO;Traditionalist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_GEO;United National Movement;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_conservative_1_GER;ALFA;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_4_GER;AfD;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_progressive_1_GER;Bündnis 90/Die Grünen;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_populist_2_GER;Bündnis C;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_progressive_1_GER;BÃ¼ndnis 90/Die GrÃ¼nen;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_2_GER;BÃ¼ndnis C;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_1_GER;DKP;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_progressive_0_GER;Die Die Grünen;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_progressive_0_GER;Die Die GrÃ¼nen;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_2_GER;Die Linke;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_GER;FDP;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_traditionalist_0_GER;Nationaldemokratische;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -1062,11 +1062,11 @@ party_progressive_0_IOM;Progressive Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_0_IOM;Socialist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_traditionalist_0_IOM;Traditionalist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_IRE;Fine Gael;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_conservative_0_IRE;Fianna F�il;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_conservative_0_IRE;Fianna Fáil;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_progressive_0_IRE;Green Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_traditionalist_0_IRE;Family Solidarity;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_0_IRE;Labour Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_populist_0_IRE;Sinn F�in;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_0_IRE;Sinn Féin;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_0_IRE;Workers' Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_0_IRQ;Al-Ahrar Bloc;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_IRQ;Al-Arabiya Coalition;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -1097,9 +1097,8 @@ party_progressive_0_ISP;Meretz Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_0_ISP; Hadash Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_traditionalist_0_ISP;Religious Seperatist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_social_0_ISP;Communist Reform Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_nationalist_0_ISR;Brit HaTzohar;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+pparty_nationalist_0_ISR;Brit HaTzohar;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_nationalist_1_ISR;Otzma Yehudit;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_nationalist_2_ISR;Yisrael Beiteinu;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_big_tent_0_ISR;General Zionist;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_big_tent_1_ISR;Kadima;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_big_tent_2_ISR;Kahol Lavan;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -1107,20 +1106,20 @@ party_communist_0_ISR;Maki;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_1_ISR;Hadash;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_social_0_ISR;Mapam;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_social_1_ISR;Da'am Workers Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_traditionalist_0_ISR;Joint List;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_traditionalist_1_ISR;United Religious Front;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_traditionalist_2_ISR;UTJ-Shas;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_traditionalist_0_ISR;United Religious Front;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_traditionalist_1_ISR;UTJ-Shas;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_conservative_0_ISR;Herut;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_conservative_1_ISR;Likud;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_populist_0_ISR;The Coalition;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_populist_1_ISR;Yamina;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_0_ISR;National Religious Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_1_ISR;Jewish Home;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_2_ISR;Yamina;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_ISR;Liberal Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_1_ISR;Hatnuah;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_2_ISR;Yesh Atid;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_progressive_0_ISR;WIZO;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_progressive_1_ISR;Meretz;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_progressive_2_ISR;Joint List;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_0_ISR;Mapai;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_socialist_1_ISR;Labor Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_conservative_0_ITA;Christian Democracy;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_liberal_0_ITA;Italian Liberal Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_0_ITA;Italian Socialist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -2953,7 +2952,7 @@ party_populist_0_ZUL;Populist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_progressive_0_ZUL;Progressive Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_socialist_0_ZUL;Socialist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_traditionalist_0_ZUL;Traditionalist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_populist_0_albanian_KOS;Vetëvendosje;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_0_albanian_KOS;VetÃ«vendosje;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_nationalist_0_albanian_MAC;Democratic Party of Albanians;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_0_azerbaijani_AZB;Motherland Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_0_berber_ALG;Rally for Culture and Democracy;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
@@ -2978,9 +2977,9 @@ party_populist_2_shan_BUR;Shan Democratic Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_1_sunni_arab_ALG;FNL Boumediene Fraction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_0_tutsi_BRN;CNDD;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_1_tutsi_RWA;Rwandan Patriotic Front;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_nationalist_0_SVI;Ngô Đình Diệm Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_nationalist_0_SVI;NgÃ´ ÄÃ¬nh Diá»m Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_populist_2_white_french_ALG;OAS;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
-party_populist_0_white_french_CAN;Bloc Québécois;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
+party_populist_0_white_french_CAN;Bloc QuÃ©bÃ©cois;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_nationalist;Nationalist Party;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_big_tent;Moderates;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
 party_communist_social;Market Socialists;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;
